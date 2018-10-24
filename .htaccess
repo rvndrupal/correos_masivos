@@ -1,0 +1,9 @@
+#Impedir que se pueda ver lista de contenido
+
+Options All -Indexes
+
+#redireccionar 404 y 403
+
+ErrorDocument 404  http://localhost/directorioupv/error404.php
+
+ErrorDocument 403  http://localhost/directorioupv/error403.php

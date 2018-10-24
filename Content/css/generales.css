@@ -1,0 +1,75 @@
+.sesion a {
+    line-height: 6px;
+    font-family: Trajan;
+    font-size: 14px;
+    color: #FFF;
+    margin: -8px 0px 0px 528px;
+    position: absolute;
+}
+
+.space_bottom {
+    margin: 213px 0 0 0;
+}
+
+.titulo_add {
+    text-align: center;
+    margin: 37px 0 0 -335px;
+}
+
+.boton_add {
+    margin: 38px 0 0 337px;
+}
+
+.titulo_header {
+    margin: 0 0 0 -175px;
+}
+
+.nuevo_btn {
+    margin: 26px 0 0 0;
+}
+
+.editar_user {
+    text-align: center;
+    margin: 37px 0 0 -335px;
+}
+
+.boton_edit {
+    margin: 38px 0 0 337px;
+}
+
+.lista {
+    margin: 36px 0 0 26px;
+}
+
+.usuario_sesion {
+    line-height: 6px;
+    font-family: Trajan;
+    font-size: 16px;
+    color: black;
+    margin: 32px 0px 0px 20px;
+    position: absolute;
+}
+
+.container {
+    min-height: 100%;
+    margin: auto;
+}
+
+.space_bottom {
+    position: relative;
+    bottom: 0;
+}
+
+.error_404 {
+    margin: 0 0 0 77px;
+}
+
+.error_403 {
+    margin: 0 0 0 -4px;
+}
+
+.ini_sesion {
+    margin: 0 0 0 196px;
+    color: black;
+    font-size: 23px;
+}

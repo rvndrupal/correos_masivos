@@ -1,0 +1,76 @@
+* { margin: 0px;
+padding: 0px; outline: 0;
+}
+html, body { width: 100%;}
+
+/*body { 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}*/
+#menu {  text-align: center;
+/*TAMAÑO DE LETRA*/
+font-size: 0.9em;
+width: 320px;
+margin: 20px;
+}
+#menu ul { list-style-type: none;
+}
+#menu ul li.nivel1 { 
+width: 162px;/*162px*/
+}
+#menu ul li.primera { border-top: solid 1px #FFF;
+}
+#menu ul li a, #menu ul li span {display: block;
+/*color principal del menu*/
+text-decoration: none;
+color: #999999;
+background-color: #000000;
+border: solid 1px #fff;
+border-top: none;
+padding: 8px;
+position: relative;
+}
+a:active {position: relative;
+}
+#menu ul li a:active {background-color: #FF0000;
+color: #FF0000;
+border-bottom: solid 1px #6CC;
+position: relative;
+}
+#menu ul li span.nivel1 {display: block;
+}
+#menu ul li:hover span.nivel1 {cursor: pointer;
+}
+#menu ul li ul {display: none;
+}
+#menu ul li a:hover ul, #menu ul li a:active ul {display: block;
+position: relative;width: 172px;background-color: #00FF00;
+}
+#menu ul li a:link:hover ul {display: none;
+}
+#menu ul li a:active:hover ul  {display: block;
+}
+/*COLOR DEL SUBMENU*/
+#menu ul li ul li a {width: 170px;
+padding: 6px 0px 8px 0px;
+border: none;
+border-top:  solid 1px #FFF;
+
+background-color: #FFFFFF;
+font-weight: normal;
+}
+/*COLOR DEL SOMBREADO AL PASAR EL RATON*/
+#menu ul li ul li a:hover {
+position: relative;
+text-decoration: underline;
+border-bottom: none;
+color: #000;
+
+background-color: #FFFFFF;
+}
+#menu ul li ul li.primera {border-top: none;
+}
+table.falsa {border-collapse:collapse;
+border:0px;
+float: left;
+position: relative;
+}

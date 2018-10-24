@@ -1,0 +1,26 @@
+#padre{  
+        height:100%;  
+        /*background-color:#ffffff;*/
+        float:left;  
+        width:100%;
+		  
+}  
+
+th {
+    text-transform: uppercase;
+	font-size: small;
+}
+
+body {
+/*background-image: url(img/FON2.png);*/
+background-image:url(img/FON.png);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+a:link   
+{   
+ text-decoration:none;   
+} 
+td {text-transform: uppercase}
