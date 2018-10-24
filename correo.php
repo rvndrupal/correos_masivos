@@ -102,9 +102,12 @@
 		</head>
 
 		<body>
-			<center>
-				<div id="inicio"> <?php include("menu.php");?> </div>
-				
+			<center>';?>
+
+				<div id="inicio"> <?php include("menu.php"); ?> </div>
+
+
+			<?php echo ' 	
 				<br>
 				
 				<div id="formularioEnvio">				
