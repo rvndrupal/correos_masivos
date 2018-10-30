@@ -95,6 +95,7 @@
        } else {
         echo "<script>
         alert('Usuario no encontrado favor de validar de nuevo');
+        window.location= 'index.php'
         
         </script>"; 
        }
