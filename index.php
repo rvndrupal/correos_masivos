@@ -50,7 +50,7 @@
 					<div class="celdaCentradaVertical anchoAltoFull contenidoBodyCentral">
 						<div class="col-md-celda col-md-logos">
 							<div class="col-md-10 col-md-offset-2">
-								<div class="row"><div class="col-xs-12 vcenter"><img style="width:450px; height:453px;" src="imagenes/plantilla/escudo2.png" class="center-block img-responsive" /></div></div>
+								<div class="row"><div class="col-xs-12 vcenter"><img style="width:450px; height:453px;" src="imagenes/plantilla/senasica_login.png" class="center-block img-responsive" /></div></div>
 							</div>
 						</div>
 						<div class="col-md-celda">
@@ -80,7 +80,7 @@
 											</p>
 											<p>Correos de contacto:</p>
 											<ul class="lista_lineal_basica">
-												<li>webmaster@senasica.gob.mx</li>
+												<li>yunuen.rivera@senasica.gob.mx</li>
 											</ul>
 											<p class="text-justify">
 												<b>Importante:</b> Para ver correctamente este sitio necesita tener una resolución de pantalla mínima de 1024 x 768 pixeles,
